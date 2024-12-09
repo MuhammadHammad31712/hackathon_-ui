@@ -1,1 +1,1 @@
-I have completed the hackathon within 24 hours. There were 5 pages including the home page and all pages are responsive. 
+I have completed the hackathon which had given from Governer IT Course Q2 
