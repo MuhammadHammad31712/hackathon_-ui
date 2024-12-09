@@ -1,1 +1,1 @@
-I have completed the hackathon which had given from Governer IT Course Q2 
+I have completed the hackathon which had given by Governer IT Course (Q2) 
